@@ -24,3 +24,6 @@ func main() {
 	mustcopy(os.Stdout, conn)
 
 }
+// cd clinet
+// go build
+// ./clinet
